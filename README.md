@@ -1,6 +1,6 @@
 # TES — Tracing Eastern Sicily’s Networks
 
-TES is a Digital Humanities research project investigating social, economic, and cultural networks in southeastern Sicily between the 10th and 5th centuries BCE.
+TES is a Digital Humanities research project investigating social, economic, and cultural networks in southeastern Sicily between the 10th and 6th centuries BCE.
 
 The project combines archaeology, history, epigraphy, and spatial analysis to reconstruct regional systems of interaction across the Archaic Mediterranean.
 
