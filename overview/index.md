@@ -1,10 +1,10 @@
 [← Back to Infrastructure Hub](/)
 
-# TES — Tracing Eastern Sicily’s Networks (9th–6th centuries BCE)
+# TES — Tracing Eastern Sicily’s Networks (9th–6th centuries BCE) 
 
 ## Project Overview
 
-**TES** investigates the political, social, and economic dynamics shaping **southeastern Sicily** between the **10th and 6th centuries BCE**, a period preceding and accompanying processes traditionally associated with Greek colonization.
+**TES** (www.unive.it/tes) investigates the political, social, and economic dynamics shaping **southeastern Sicily** between the **10th and 6th centuries BCE**, a period preceding and accompanying processes traditionally associated with Greek colonization. 
 
 Rather than analysing sites in isolation, the project approaches the region as an **interconnected landscape**, structured by mobility corridors, environmental constraints, and shared cultural practices.
 
