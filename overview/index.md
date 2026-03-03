@@ -71,6 +71,98 @@ The dataset is designed to integrate with:
 
 ---
 
+## Research Data Architecture
+
+TES is not structured as a conventional relational database, but as a modular research data environment designed to preserve semantic precision, uncertainty, and long-term sustainability.
+
+### From Tables to Structured Research Objects
+
+Initial datasets were developed in spreadsheet form (Sites, Production, Resources, Inscriptions, etc.). While operationally practical, tabular structures tend to:
+
+- expand horizontally as research questions evolve  
+- conceal semantic dependencies between fields  
+- blur distinctions between site-level attributes and evidence-level observations  
+
+The Cadmus implementation restructures this logic into:
+
+- **Items (entities)** — autonomous research objects  
+- **Parts (modular components)** — reusable analytical units  
+- **Thesauri (controlled vocabularies)** — hierarchical or flat taxonomies  
+- **Explicit links** — semantic relations between entities  
+
+This architecture allows each analytical observation to remain internally coherent while contributing to broader regional patterns.
+
+---
+
+### Entry-Based Evidence Modeling
+
+A central methodological decision concerns how archaeological evidence is recorded.
+
+Rather than assigning broad categories to sites, TES models:
+
+- each production activity  
+- each resource exploitation  
+- each inscription  
+- each cultic element  
+
+as a **distinct evidence entry**, each with:
+
+- type and classification  
+- chronology (25-year resolution)  
+- degree of certainty  
+- spatial reference (when available)  
+- bibliographic source  
+- commentary  
+
+This preserves the association between evidence, time, and interpretation, avoiding data flattening.
+
+---
+
+### Chronological Precision and Uncertainty
+
+Chronology is structured in 25-year intervals (1000–500 BCE), enabling:
+
+- cross-site comparability  
+- fine-grained temporal analysis  
+- preservation of chronological uncertainty  
+
+Uncertainty is recorded explicitly rather than normalised away, reflecting archaeological reality rather than forcing artificial precision.
+
+---
+
+### Spatial Modeling
+
+Spatial data are stored as:
+
+- point coordinates  
+- optional radius of approximation  
+- polygon geometries (when required)  
+
+This enables:
+
+- export to GIS environments (e.g., PostGIS, QGIS)  
+- spatial network analysis  
+- preservation of locational precision and approximation  
+
+Spatial uncertainty is treated as analytical information, not as error.
+
+---
+
+### Content–Presentation Separation
+
+Cadmus functions as a structured content creation and research management environment, not as a final publication interface.
+
+This separation ensures:
+
+- long-term data persistence  
+- frontend independence  
+- interoperability with future platforms  
+- sustainability beyond project funding cycles  
+
+The TES editor therefore represents the working scholarly environment in which data are curated, structured, and validated.
+
+---
+
 ## Current Development
 
 The project is actively building:
@@ -87,4 +179,4 @@ The TES editor and API exposed through this infrastructure represent the **worki
 
 TES operates as an **open research environment** and welcomes scholarly exchange with projects addressing ancient connectivity, landscape archaeology, epigraphy, and digital infrastructures.
 
-Ongoing intellectual exchanges connect TES with several international research initiatives and ERC projects working on Mediterranean networks and material culture.
+Ongoing intellectual exchanges connect TES with several international research initiatives and ERC projects working on Mediterranean networks and material culture (see www.unive.it/tes)
