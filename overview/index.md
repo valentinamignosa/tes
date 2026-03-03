@@ -161,10 +161,10 @@ This ensures:
 
 Key alignments include:
 
-- **Mapping Ancient Polytheism (MAP)** — for divine entities and cultic references  
-- **Getty Art & Architecture Thesaurus (AAT)** — for archaeological materials, object types, technologies, and production categories  
-- **Iconographic vocabularies and typological systems** — for figurative representations and visual culture classification  
-- **EAGLE vocabularies and FAIR Epigraphy standards** — for epigraphic metadata and inscription typologies  
+- **Mapping Ancient Polytheism (MAP)** — for divine entities and cultic references (https://map-polytheisms.huma-num.fr/?lang=en)  
+- **Getty Art & Architecture Thesaurus (AAT)** — for archaeological materials, object types, technologies, and production categories (https://www.getty.edu/research/tools/vocabularies/aat/index.html)  
+- **ICONCLASS** — for figurative representations and visual culture classification (https://iconclass.org/)  
+- **EAGLE vocabularies and FAIR Epigraphy standards** — for epigraphic metadata and inscription typologies (https://www.eagle-network.eu/resources/vocabularies/) (https://ontology.inscriptiones.org/type_of_inscription)    
 - **BCP47 language tags** — for linguistic encoding  
 
 Where appropriate, TES maintains local hierarchical thesauri that remain interoperable with these external systems while preserving project-specific analytical nuance.
