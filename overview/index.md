@@ -148,6 +148,31 @@ Spatial uncertainty is treated as analytical information, not as error.
 
 ---
 
+### Controlled Vocabularies and External Ontologies
+  
+Whenever possible, controlled vocabularies are aligned with established international standards and domain ontologies.
+
+This ensures:
+
+- semantic interoperability  
+- FAIR compliance  
+- reusability beyond the TES environment  
+- compatibility with Linked Open Data ecosystems  
+
+Key alignments include:
+
+- **Mapping Ancient Polytheism (MAP)** — for divine entities and cultic references  
+- **Getty Art & Architecture Thesaurus (AAT)** — for archaeological materials, object types, technologies, and production categories  
+- **Iconographic vocabularies and typological systems** — for figurative representations and visual culture classification  
+- **EAGLE vocabularies and FAIR Epigraphy standards** — for epigraphic metadata and inscription typologies  
+- **BCP47 language tags** — for linguistic encoding  
+
+Where appropriate, TES maintains local hierarchical thesauri that remain interoperable with these external systems while preserving project-specific analytical nuance.
+
+The goal is not duplication of existing ontologies, but structured alignment and semantic compatibility.
+
+---
+
 ### Content–Presentation Separation
 
 Cadmus functions as a structured content creation and research management environment, not as a final publication interface.
