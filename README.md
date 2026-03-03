@@ -51,11 +51,11 @@ TES is conceived as an open research environment exploring ancient connectivity,
 Scholars interested in collaboration, data exchange, or methodological discussion are welcome to get in touch.
 
 ## Partner institutions and projects
-ERC Crossreads, PI: Jonathan Prag, University of Oxford
-ERC MarDepend - Maritime Dependencies in Antiquity, PI: Pascal Warnking, University of Trier
-ERC Stone-Masters, PI: Paweł Nowakowski, University of Warsaw
-I.Sicily, PI: Jonathan Prag, University of Oxford
-AncLa - Ancient Landscapes, PI: Stefania De Vido, Ca’ Foscari University of Venice
+ERC Crossreads, PI: Jonathan Prag, University of Oxford  
+ERC MarDepend - Maritime Dependencies in Antiquity, PI: Pascal Warnking, University of Trier  
+ERC Stone-Masters, PI: Paweł Nowakowski, University of Warsaw  
+I.Sicily, PI: Jonathan Prag, University of Oxford  
+AncLa - Ancient Landscapes, PI: Stefania De Vido, Ca’ Foscari University of Venice  
 
 ---
 
